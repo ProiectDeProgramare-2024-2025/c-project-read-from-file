@@ -12,7 +12,7 @@ Testing procedure:
 ### RO
 Implementați mecanismul de persistare a datelor între mai multe rulări ale aplicației prin citirea din fișier(e).
 - (2p) Definiți structura fișierului / fișierelor și adăugați date în el(e)
-- (8p) Implemntați cel puțin o funcționalitate din enunț care să citească date din fișier(e) (de exemplu - `Vizualizează <ceva>`)
+- (8p) Implementați cel puțin o funcționalitate din enunț care să citească date din fișier(e) (de exemplu - `Vizualizează <ceva>`)
 
 Procedura de testare:
 1. Se rulează aplicația, se văd datele prepopulate
